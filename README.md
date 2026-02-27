@@ -14,4 +14,4 @@
 - Language: C
 
 ## 📦 실행 방법
-git clone https://github.com/suin-it/to_do_list
+git clone https://github.com/suin-it/To_Do_List
