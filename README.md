@@ -15,4 +15,4 @@
 
 ## 📦 실행 방법
 ```bash
-git clone https://github.com/suin-it/To_Do_List
+git clone https://github.com/suin-it/To-Do-List
